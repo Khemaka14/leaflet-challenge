@@ -5,3 +5,4 @@ The visualization showcases numerous markers that each represent an earthquake. 
 There is a legend that will provide context for your map data as well as popups that provide additional information about the earthquake when its associated marker is clicked.
 
 This is a link to the Website. 
+https://khemaka14.github.io/leaflet-challenge/
